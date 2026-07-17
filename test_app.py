@@ -1,4 +1,4 @@
-from app import add, divide
+from app import add, divide, multiply
 import pytest
 
 def test_add():
